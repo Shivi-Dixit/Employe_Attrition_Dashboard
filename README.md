@@ -4,6 +4,13 @@ Here I made this dashboard to analyze Attrition of employees, Which factors is t
 # HR Analytics Dashboard (Power BI)
 This is a Power BI project designed to provide insights into Human Resources data
 
+## Key Features
+- Employee Overview (gender, age, department)
+- Attrition & Turnover Analysis
+- Recruitment KPIs (time to hire, cost per hire)
+- Performance Ratings
+- Demographics Overview
+
 Tools Used
 - Power BI Desktop
 -  Microsoft Excel / CSV for data
