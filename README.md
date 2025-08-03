@@ -18,3 +18,4 @@ Tools Used
 Data Privacy
 The dataset is synthetic and does not include real employee information.
 # Dashboard 
+https://raw.githubusercontent.com/Shivi-Dixit/Employe_Attrition_Dashboard/main/Attriton_Dashboard.png
